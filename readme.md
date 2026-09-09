@@ -1,6 +1,4 @@
-interpretable_ML_outlet_longterm
-
-Repository for "Conditional predictability of Greenland outlet glacier retreat"
+# Repository for "Conditional predictability of Greenland outlet glacier retreat"
 
 by Kevin Shionalyn, Ginny Catania, Daniel Trugman, Michael Shahin, Leigh Stearns, and Denis Felikson
 
